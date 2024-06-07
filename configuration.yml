@@ -1,0 +1,17 @@
+data_source datademo:
+     type: snowflake
+     username: Akshaydode
+     password: Akshay@111
+     account: et20225.central-india.azure
+     database: SNOWFLAKE_DEMO 
+     warehouse: COMPUTE_WH
+     role: ACCOUNTADMIN
+     session_parameters:
+       QUERY_TAG: soda-queries
+       QUOTED_IDENTIFIERS_IGNORE_CASE: false
+     schema: CUST_DETAILS
+
+soda_cloud:
+  host: cloud.us.soda.io
+  api_key_id: 6e8fbab4-c0e6-4159-9675-a68064484e6b
+  api_key_secret: XxXhw9nBPYzqtJmYpMpfghn1FlaNUcA6rxvN9f9uFNO4onr6692Kiw

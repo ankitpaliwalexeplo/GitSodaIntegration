@@ -1,0 +1,7 @@
+   checks for CUST_DETAILS:
+   # Checks that dataset contains rows
+     - row_count > 0:
+         name: CUST_DETAILS
+   # Checks that column contains no NULL values
+     - missing_count(EMAIL) = 0:
+         name: No NULL values
