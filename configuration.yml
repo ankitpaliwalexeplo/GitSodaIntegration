@@ -1,8 +1,8 @@
 data_source datademo:
      type: snowflake
-     username: Akshaydode
-     password: Akshay@111
-     account: za90521.central-india.azure
+     username: ANKITPALIWAL
+     password: @Nki1234
+     account: ok95781.central-india.azure
      database: SNOWFLAKE_DEMO 
      warehouse: COMPUTE_WH
      role: ACCOUNTADMIN
@@ -13,5 +13,5 @@ data_source datademo:
 
 soda_cloud:
   host: cloud.us.soda.io
-  api_key_id: 8b6a5a68-1030-41c9-aa30-5b0a0626945a
-  api_key_secret: iyDEXSaZZixU024myPuC8hpHky8Ds953twnvpI-gHvQxg6zPBFdMhg
+  api_key_id: 25fbe214-29bb-4e9a-9041-3a5bc5251836
+  api_key_secret: 3lo_uwA4-aXFts7n8rsbF5mhPh2XUWT7ArxxZeIZbFdv6EmBm38-dg
