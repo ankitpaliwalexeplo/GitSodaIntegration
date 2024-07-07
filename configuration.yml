@@ -12,6 +12,6 @@ data_source datademo:
      schema: CUST_DETAILS
 
 soda_cloud:
-  host: cloud.soda.io
+  host: cloud.us.soda.io
   api_key_id: 25fbe214-29bb-4e9a-9041-3a5bc5251836
   api_key_secret: 3lo_uwA4-aXFts7n8rsbF5mhPh2XUWT7ArxxZeIZbFdv6EmBm38-dg
